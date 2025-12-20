@@ -1,5 +1,13 @@
 <div class="intro" style="font: sans-serif;">
-    <h1>KamaoKat（卡猫kat）</h1><br>
+    <div class="warnings">
+        <h2>
+            ⚠️重要通知 Important Announcement</h2>
+        <h3>
+            “轩哥啊哈OvO”将于近日全平台改名为“卡猫kat”.<br>
+            'XuangeAha' will soon rename to 'KamaoKat' across all platforms.<br>
+        </h3>
+    </div>
+    <h1>KamaoKat（卡猫kat）</h1>
     <p>
         一位高中代码菌，多平台内容创作者~&emsp;>>> 全网点击量200w+ | 个人主页：xuangeaha.xyz <<<<br>
         B站生活/游戏区UP主，于VSMarketplace维护多款实用的VSCode插件，在CSDN分享自制程序与教程内容，同时是一名网易云音乐人，创作发布个人/团队音乐作品。
