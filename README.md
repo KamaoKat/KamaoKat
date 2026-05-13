@@ -1,12 +1,12 @@
 <div class="intro" style="font: sans-serif;">
-    <div class="warnings">
+    <!-- <div class="warnings">
         <h2>
             ⚠️重要通知 Important Announcement</h2>
         <h3>
             “轩哥啊哈OvO”将于近日全平台改名为“卡猫kat”.<br>
             'XuangeAha' will soon rename to 'KamaoKat' across all platforms.<br>
         </h3>
-    </div>
+    </div> -->
     <h1>KamaoKat（卡猫kat）</h1>
     <p>
         一位高中代码菌，多平台内容创作者~&emsp;>>> 全网点击量200w+ | 个人主页：xuangeaha.xyz <<<<br>
