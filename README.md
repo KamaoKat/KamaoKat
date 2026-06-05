@@ -29,11 +29,11 @@
             CSDN&emsp;
         </a>
         <a href="https://github.com/Xuangeaha">
-            <img src="https://mp-963c4101-48ec-4499-a807-59801aa623d6.cdn.bspapp.com/xuangeaha_xyz/assets/image/github/favicon.ico" width="22" alt="Github">
+            <img src="https://github.com/favicon.ico" width="22" alt="Github">
             Github&emsp;
         </a>
         <a href="https://marketplace.visualstudio.com/publishers/XuangeAha">
-            <img src="https://mp-963c4101-48ec-4499-a807-59801aa623d6.cdn.bspapp.com/xuangeaha_xyz/assets/image/vsce/favicon.ico" width="22" alt="Visual Studio Marketplace">
+            <img src="https://marketplace.visualstudio.com/favicon.ico" width="22" alt="Visual Studio Marketplace">
             Visual Studio Marketplace&emsp;
         </a>
         <a href="https://music.163.com/#/user/home?id=8644137167">
