@@ -9,17 +9,19 @@
     </div> -->
     <h1>KamaoKat（卡猫kat）</h1>
     <p>
-        一位高中代码菌，多平台内容创作者~&emsp;>>> 全网点击量200w+ | 个人主页：xuangeaha.xyz <<<<br>
-        B站生活/游戏区UP主，于VSMarketplace维护多款实用的VSCode插件，在CSDN分享自制程序与教程内容，同时是一名网易云音乐人，创作发布个人/团队音乐作品。
+        多平台内容创作者，爱好编程~<<br>
+        音乐人、B站生活/游戏区UP主、VSMarketplace多款VSCode插件维护者。
     </p>
     <p>
-        A high school student with passion for coding, also a content creator on several platforms. | My homepage: xuangeaha.xyz<br>
-        A Bilibili lifestyle/gaming videos creator, maintaining several practical VSCode extensions on VSMarketplace, sharing self-developed programs and tutorials on CSDN, and also a NetEase Cloud Musician, creating and releasing personal/team music works.
+        Multi-platform content creator with a passion for coding~<br>
+        Also a music producer, Bilibili lifestyle/gaming content creator, and maintainer of multiple VSCode extensions on VSMarketplace.
     </p>
+        <!-- 
         <a href="https://xuangeaha.xyz">
             <img src="https://pic1.zhimg.com/v2-034e4491e6713632f718100cc4dbd697_xl.jpg?source=32738c0c" width="18" alt="个人主页">
             个人主页 Homepage
         </a>&nbsp;
+            -->
         <a href="https://space.bilibili.com/1865984682">
             <img src="https://www.bilibili.com/favicon.ico" width="20" alt="BiliBili (卡猫kat)">
             哔哩哔哩 BiliBili&emsp;
