@@ -9,7 +9,7 @@
     </div> -->
     <h1>KamaoKat（卡猫kat）</h1>
     <p>
-        多平台内容创作者，爱好编程~<<br>
+        多平台内容创作者，爱好编程~<br>
         音乐人、B站生活/游戏区UP主、VSMarketplace多款VSCode插件维护者。
     </p>
     <p>
