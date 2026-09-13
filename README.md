@@ -14,12 +14,8 @@
     </p>
     <p>
         Multi-platform content creator with a passion for coding~<br>
-        Also a music producer, Bilibili lifestyle/gaming content creator, and maintainer of multiple VSCode extensions on VSMarketplace.
+        Maintainer of multiple VSCode extensions on VSMarketplace.
     </p>
-        <a href="https://kamaokat.github.io">
-            <img src="https://pic1.zhimg.com/v2-034e4491e6713632f718100cc4dbd697_xl.jpg?source=32738c0c" width="18" alt="个人主页">
-            个人主页 Homepage
-        </a>&nbsp;
         <a href="https://space.bilibili.com/1865984682">
             <img src="https://www.bilibili.com/favicon.ico" width="20" alt="BiliBili (卡猫kat)">
             哔哩哔哩 BiliBili&emsp;
@@ -35,9 +31,5 @@
         <a href="https://marketplace.visualstudio.com/publishers/XuangeAha">
             <img src="https://marketplace.visualstudio.com/favicon.ico" width="22" alt="Visual Studio Marketplace">
             Visual Studio Marketplace&emsp;
-        </a>
-        <a href="https://music.163.com/#/user/home?id=8644137167">
-            <img src="https://music.163.com/favicon.ico" width="22" alt="Visual Studio Marketplace">
-            网易云音乐 Netease Cloud Music&emsp;
         </a>
 </div>
