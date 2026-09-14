@@ -1,10 +1,6 @@
 <div class="intro" style="font: sans-serif;">
     <h1>NekoChino</h1>
     <p>
-        多平台内容创作者，爱好编程~<br>
-        VSMarketplace多款VSCode插件维护者。
-    </p>
-    <p>
         Multi-platform content creator with a passion for coding~<br>
         Maintainer of multiple VSCode extensions on VSMarketplace.
     </p>
